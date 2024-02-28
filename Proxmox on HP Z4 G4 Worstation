@@ -1,0 +1,7 @@
+I started out running the the HV on the bare metal of the workstation. 
+My goals are as follows:
+  Create a central node that I can use to manage all the hardware and software that I want to run
+  Learn VM's and containers, and how they work.
+  test the differences between hardware bridges and PCI passthroughs 
+  Create a cluster and learn load balanceing
+  Create a reliable means of backup and restoration
